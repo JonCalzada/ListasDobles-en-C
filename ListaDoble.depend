@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1539225234 source:c:\users\usuario\desktop\listadoble\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1539224768 c:\users\usuario\desktop\listadoble\lista.h
+	"nodo.h"
+
+1539224768 c:\users\usuario\desktop\listadoble\nodo.h
+
+1539225456 source:c:\users\usuario\desktop\listadoble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	"lista.h"
+
+1539224768 source:c:\users\usuario\desktop\listadoble\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
+1539225234 source:c:\users\usuario\desktop\listadoble base\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1539224768 c:\users\usuario\desktop\listadoble base\lista.h
+	"nodo.h"
+
+1539224768 c:\users\usuario\desktop\listadoble base\nodo.h
+
+1539225456 source:c:\users\usuario\desktop\listadoble base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	"lista.h"
+
+1539224768 source:c:\users\usuario\desktop\listadoble base\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
+1539225854 source:c:\users\devsys\desktop 4\listadoble base\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1539224768 c:\users\devsys\desktop 4\listadoble base\lista.h
+	"nodo.h"
+
+1539224768 c:\users\devsys\desktop 4\listadoble base\nodo.h
+
+1539225887 source:c:\users\devsys\desktop 4\listadoble base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	"lista.h"
+
+1539224768 source:c:\users\devsys\desktop 4\listadoble base\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
+1539292966 source:h:\edai\practica 8\listadoble base\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1539221170 h:\edai\practica 8\listadoble base\lista.h
+	"nodo.h"
+
+1539221170 h:\edai\practica 8\listadoble base\nodo.h
+
+1539293792 source:h:\edai\practica 8\listadoble base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	"lista.h"
+
+1539221170 source:h:\edai\practica 8\listadoble base\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
